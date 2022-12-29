@@ -1,0 +1,44 @@
+body{
+    background-color: black;
+    margin: 0;
+}
+.main{
+    color: white;
+    text-align: center;
+    width: 100%;
+    height: 100vh;
+    margin :0;
+    position: relative;
+    font-size: 55px;
+}
+.login{
+    font-size: 20px;
+    position: absolute;
+    background-color: #353535;
+    height: 300px;
+    width: 350px;
+    margin: 0;
+    top:60%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    display: inline-block;
+}
+.inp{
+    text-align: start;
+    width: 280px;
+    font-size: 17px;
+    margin: 10%;
+    margin-top: 0;
+}
+.inp input{
+    width: 270px;
+    height: 20px;
+}
+.check{
+    width: 135px;
+    height: 30px;
+    margin: auto;
+}
+.inp a{
+    font-size: 13px;
+}
